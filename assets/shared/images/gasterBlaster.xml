@@ -1,7 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gasterBlaster.png">
 	<!-- Created with Adobe Animate version 21.0.4.39603 -->
- 	<!-- http://www.adobe.com/products/animate.html -->
+	<!-- http://www.adobe.com/products/animate.html -->
  	<SubTexture name="shoot0000" x="0" y="0" width="2772" height="899" frameX="-281" frameY="-91" frameWidth="3333" frameHeight="1080"/>
-  <SubTexture name="shoot0000" x="0" y="0" width="2772" height="899" frameX="-281" frameY="-91" frameWidth="3333" frameHeight="1080"/>
+        <SubTexture name="shoot0000" x="0" y="0" width="2772" height="899" frameX="-281" frameY="-91" frameWidth="3333" frameHeight="1080"/>
  	<SubTexture name="shoot0000" x="0" y="0" width="2772" height="899" frameX="-281" frameY="-91" frameWidth="3333" frameHeight="1080"/>
  	<SubTexture name="shoot0000" x="0" y="0" width="2772" height="899" frameX="-281" frameY="-91" frameWidth="3333" frameHeight="1080"/>
  	<SubTexture name="shoot0000" x="0" y="0" width="2772" height="899" frameX="-281" frameY="-91" frameWidth="3333" frameHeight="1080"/>
