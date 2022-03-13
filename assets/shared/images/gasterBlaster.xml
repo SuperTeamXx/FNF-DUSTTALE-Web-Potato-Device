@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="gasterBlaster.png">
-	<!-- Created with Adobe Animate version 21.0.4.39603 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="shoot0000" x="0" y="0" width="0" height="0" frameX="-99999" frameY="-99999" frameWidth="0" frameHeight="0"/>	
- </TextureAtlas>
