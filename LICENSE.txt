@@ -120,18 +120,12 @@
           that such additional attribution notices cannot be construed
           as modifying the License.
 
-      (e) You must acknowledge SuperTeamXP inside the README and keep the text
-          that states: "This HTML5 port is property of SuperTeamXP"
-          "Do not fork/clone this repository or put this on other sites without acknowledging me and the creators"
-          and "Thanks to WassabiSoja, StampSz, and hexar01 for the mod and source code"
-          inside the README.
-          
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
       for use, reproduction, or distribution of Your modifications, or
       for any such Derivative Works as a whole, provided Your use,
       reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.  
+      the conditions stated in this License.
 
    5. Submission of Contributions. Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
@@ -192,8 +186,6 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   
-   Copyright 2022 SuperTeamXP 
    Copyright 2021 KadeDev
    Upstream (ninjamuffin99/Funkin): Copyright 2020-2021 ninjamuffin99
 
