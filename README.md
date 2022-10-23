@@ -1,4 +1,4 @@
-## You can play FNF DUSTTALE Unblocked [here!](https://superteamxp.github.io/FNF-DUSTTALE-Web-Potato-Device/)
+## You can play FNF DUSTTALE Unblocked [here!](https://superteamxx.github.io/FNF-DUSTTALE-Web-Potato-Device/)
  # THE ARROW KEYBINDS WORK NOW
  More things optimized iOS
  
